@@ -11,4 +11,11 @@
 
 ### Project scenes
 #### 1. Play only scene
+<p align="center">
+  <img src="https://github.com/hikimory/FlappyBirdAI/blob/master/Preview/justPlay.gif" width="600" height="400">
+</p>
+
 #### 2. Training scene
+<p align="center">
+  <img src="https://github.com/hikimory/FlappyBirdAI/blob/master/Preview/trainNN.gif" width="600" height="400">
+</p>
